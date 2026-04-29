@@ -6,7 +6,7 @@
 	<Link title="Itz11AM" ref="/" />
 
 	<nav>
-		<Link title="About" ref="/about" />
+		<Link title="About" ref="/" />
 		<Link
 			title="@ari_marto"
 			ref="https://www.instagram.com/ari_marto"
