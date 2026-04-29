@@ -1,5 +1,6 @@
 <script>
 	import Filter from "$lib/components/Filter.svelte";
+    import Icon from "$lib/components/Icon.svelte";
 	import Project from "$lib/components/Project.svelte";
 
 	const { data } = $props();
@@ -14,10 +15,8 @@
 
 <section class="safe-area hero">
 	<h1>
-		This archive collects the best outcomes of the Web Design Laboratory in
-		Communication Design, Politecnico di Milano. The laboratory is directed by
-		Umberto Tolino, Christian Mazzoleni, Francesco di Gioia and Tommaso Negri
-		with love.
+		Questa pagina è dedicata alla leggerezza del quotidiano.
+		È una raccolta di momenti semplici da non dimenticare.
 	</h1>
 </section>
 

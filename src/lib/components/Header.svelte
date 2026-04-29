@@ -3,12 +3,13 @@
 </script>
 
 <header class="safe-area">
-	<Link title="W–D" ref="/" />
+	<Link title="Itz11AM" ref="/" />
 
 	<nav>
+		<Link title="About" ref="/about" />
 		<Link
-			title="@webdesign_ddc"
-			ref="https://www.instagram.com/webdesign_ddc"
+			title="@ari_marto"
+			ref="https://www.instagram.com/ari_marto"
 		/>
 	</nav>
 </header>
